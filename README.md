@@ -1,6 +1,6 @@
 # DevSpace Blog
 
-> Statique react.js et Next.js pour les blogue informatique utilise des fichier Markdown pour les postes. Contient pagination, categories et search
+> Static React.js et Next.js pour les blogues informatique utilise des fichier Markdown pour les postes. Contient pagination, categories et search
 
 
 
