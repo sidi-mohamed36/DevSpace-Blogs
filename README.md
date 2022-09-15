@@ -6,7 +6,7 @@
 
 ![DevSpace Blog](/public/images/screen.png 'DevSpace Blog')
 
-[VIEW DEMO](https://sidimed-blogs.vercel.app/)
+[VIEW ON LIGNE DEMO](https://sidimed-blogs.vercel.app/)
 
 ## Usage
 
